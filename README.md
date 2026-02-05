@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Currently a student of Computer Science at UCM
+
 Slowly trying to learn more
 
 Ad Astra Per Aspera ✨
