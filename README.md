@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Currently a student of Computer Science at UCM
+Slowly trying to learn more
+
+Ad Astra Per Aspera ✨
+
 <!--
 **PCabello5/PCabello5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
